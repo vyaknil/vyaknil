@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
+- email: vyaknil@gmail.com
 
-<!--
-**vyaknil/vyaknil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+![My Skills](https://skillicons.dev/icons?i=figma,vscode,supabase,ts,sass,vue,react,nextjs,nuxt&perline=3)
 
-Here are some ideas to get you started:
+### Projects
+![Vyaknil](https://github-readme-stats.zcy.dev/api/pin?username=vyaknil&repo=vyaknil-next&hide_border=true&bg_color=000000FF&title_color=9500FFFF&text_color=F5F5F5FF&icon_color=9500FFFF)
+![Vyaknil](https://github-readme-stats.zcy.dev/api/pin?username=vyaknil&repo=vyak-ui-next&hide_border=true&bg_color=000000FF&title_color=9500FFFF&text_color=F5F5F5FF&icon_color=9500FFFF)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+![Stats](https://github-readme-stats.zcy.dev/api?username=vyaknil&show_icons=true&hide_border=true&bg_color=000000FF&title_color=9500FFFF&ring_color=9500FFFF&text_color=F5F5F5FF&icon_color=9500FFFF)
+![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=vyaknil&hide_border=true&bg_color=000000FF&title_color=9500FFFF&text_color=F5F5F5FF&icon_color=9500FFFF&layout=compact&stats_format=bytes)

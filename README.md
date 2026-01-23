@@ -2,7 +2,7 @@
 - email: vyaknil@gmail.com
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=figma,vscode,supabase,ts,sass,vue,react,nextjs,nuxt)
+![My Skills](https://skillicons.dev/icons?i=figma,vscode,postgresql,ts,sass,vue,react,nextjs,nuxt)
 
 ## Projects
 #### My site
